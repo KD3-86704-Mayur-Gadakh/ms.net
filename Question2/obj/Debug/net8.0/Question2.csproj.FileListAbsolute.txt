@@ -1,0 +1,14 @@
+D:\CDAC SEPT24\MyGitData\.Net Demos\Assignments_Mayur_86704\Question2\bin\Debug\net8.0\Question2.exe
+D:\CDAC SEPT24\MyGitData\.Net Demos\Assignments_Mayur_86704\Question2\bin\Debug\net8.0\Question2.deps.json
+D:\CDAC SEPT24\MyGitData\.Net Demos\Assignments_Mayur_86704\Question2\bin\Debug\net8.0\Question2.runtimeconfig.json
+D:\CDAC SEPT24\MyGitData\.Net Demos\Assignments_Mayur_86704\Question2\bin\Debug\net8.0\Question2.dll
+D:\CDAC SEPT24\MyGitData\.Net Demos\Assignments_Mayur_86704\Question2\bin\Debug\net8.0\Question2.pdb
+D:\CDAC SEPT24\MyGitData\.Net Demos\Assignments_Mayur_86704\Question2\obj\Debug\net8.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC SEPT24\MyGitData\.Net Demos\Assignments_Mayur_86704\Question2\obj\Debug\net8.0\Question2.AssemblyInfoInputs.cache
+D:\CDAC SEPT24\MyGitData\.Net Demos\Assignments_Mayur_86704\Question2\obj\Debug\net8.0\Question2.AssemblyInfo.cs
+D:\CDAC SEPT24\MyGitData\.Net Demos\Assignments_Mayur_86704\Question2\obj\Debug\net8.0\Question2.csproj.CoreCompileInputs.cache
+D:\CDAC SEPT24\MyGitData\.Net Demos\Assignments_Mayur_86704\Question2\obj\Debug\net8.0\Question2.dll
+D:\CDAC SEPT24\MyGitData\.Net Demos\Assignments_Mayur_86704\Question2\obj\Debug\net8.0\refint\Question2.dll
+D:\CDAC SEPT24\MyGitData\.Net Demos\Assignments_Mayur_86704\Question2\obj\Debug\net8.0\Question2.pdb
+D:\CDAC SEPT24\MyGitData\.Net Demos\Assignments_Mayur_86704\Question2\obj\Debug\net8.0\Question2.genruntimeconfig.cache
+D:\CDAC SEPT24\MyGitData\.Net Demos\Assignments_Mayur_86704\Question2\obj\Debug\net8.0\ref\Question2.dll
